@@ -1,0 +1,82 @@
+Body
+Date,Weight,BMI,Fat
+"2021-01-10","182.84","29.28","40.394"
+"2021-01-11","182.52","29.23","40.394"
+"2021-01-12","178","28.5","36.652"
+"2021-01-13","178.48","28.58","26.502"
+"2021-01-14","178.48","28.58","26.502"
+
+Foods
+Date,Calories In
+"2021-01-10","0"
+"2021-01-11","0"
+"2021-01-12","0"
+"2021-01-13","0"
+"2021-01-14","0"
+
+Activities
+Date,Calories Burned,Steps,Distance,Floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories
+"2021-01-10","2,297","3,814","1.65","1","785","234","0","0","838"
+"2021-01-11","2,531","4,033","1.77","2","713","245","3","11","1,054"
+"2021-01-12","2,663","5,067","2.19","2","748","299","27","3","1,292"
+"2021-01-13","2,611","7,235","3.13","2","722","301","11","4","1,265"
+"2021-01-14","898","730","0.32","0","267","55","0","0","184"
+
+Sleep
+Start Time,End Time,Minutes Asleep,Minutes Awake,Number of Awakenings,Time in Bed,Minutes REM Sleep,Minutes Light Sleep,Minutes Deep Sleep
+"2021-01-14 1:12AM","2021-01-14 6:56AM","279","65","22","344","35","151","93"
+"2021-01-13 12:21AM","2021-01-13 7:04AM","345","57","17","402","25","280","40"
+"2021-01-12 2:37AM","2021-01-12 8:40AM","282","81","19","363","39","202","41"
+"2021-01-11 12:17AM","2021-01-11 8:05AM","381","87","25","468","19","293","69"
+"2021-01-09 11:53PM","2021-01-10 6:54AM","350","71","21","421","30","240","80"
+
+Food Log 20210110
+Daily Totals
+"","Calories","0"
+"","Fat","0 g"
+"","Fiber","0 g"
+"","Carbs","0 g"
+"","Sodium","0 mg"
+"","Protein","0 g"
+"","Water","0 ml"
+
+Food Log 20210111
+Daily Totals
+"","Calories","0"
+"","Fat","0 g"
+"","Fiber","0 g"
+"","Carbs","0 g"
+"","Sodium","0 mg"
+"","Protein","0 g"
+"","Water","0 ml"
+
+Food Log 20210112
+Daily Totals
+"","Calories","0"
+"","Fat","0 g"
+"","Fiber","0 g"
+"","Carbs","0 g"
+"","Sodium","0 mg"
+"","Protein","0 g"
+"","Water","0 ml"
+
+Food Log 20210113
+Daily Totals
+"","Calories","0"
+"","Fat","0 g"
+"","Fiber","0 g"
+"","Carbs","0 g"
+"","Sodium","0 mg"
+"","Protein","0 g"
+"","Water","0 ml"
+
+Food Log 20210114
+Daily Totals
+"","Calories","0"
+"","Fat","0 g"
+"","Fiber","0 g"
+"","Carbs","0 g"
+"","Sodium","0 mg"
+"","Protein","0 g"
+"","Water","0 ml"
+
